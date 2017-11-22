@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{6BDD52E3-6E78-4BE6-926D-B33835A6EFFE}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Models/Data/UpgradeData.cs">
+    <Files>
+      <File FileName="Models/Data/UpgradeData.cs" Line="14" Column="2" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.DotnetCoreServer PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+</Properties>
